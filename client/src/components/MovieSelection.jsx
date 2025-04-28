@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 
 const movies = [
   { title: "Avatar", year: "2009", director: "James Cameron" },
